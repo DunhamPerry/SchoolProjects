@@ -5,9 +5,9 @@ public class ModulusChallenge
 
 		public static void main(String[] args)
 			{
-				//leapYearTest();
-				//arrayTest();
-				//fizzBuzzGame();
+				leapYearTest();
+				arrayTest();
+				fizzBuzzGame();
 				fizzBuzzNoBooleans();
 			}
 		public static void leapYearTest(){
